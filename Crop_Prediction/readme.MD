@@ -89,8 +89,8 @@ The Predicted Crop is rice
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/srinath2003/My_Projects.git
-cd My_Projects/Machine_Learning&Deep_learning/Crop_Prediction
+git clone https://github.com/srinath2003/Crop_Prediction_AWS_deployed.git
+cd Crop_Prediction_AWS_deployed/Crop_Prediction
 ```
 
 ## Install Required Packages
